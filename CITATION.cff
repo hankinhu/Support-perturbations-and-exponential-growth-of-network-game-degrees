@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite these reproducibility materials and the accompanying manuscript when using this code."
+type: software
+title: "Reproducibility code for Support perturbations and exponential growth of network-game degrees"
+version: "1.0.0"
+authors:
+  - family-names: "Hu"
+    given-names: "Hangkun"
+  - family-names: "Wang"
+    given-names: "Jingyi"
+  - family-names: "Wang"
+    given-names: "Minggang"
+abstract: "Standard-library Python verification programs for balanced-factor support perturbations, residual Hall activation thresholds, a sparse network degree table, and an illustrative security-investment game."
+keywords:
+  - network games
+  - balanced factors
+  - transportation polytopes
+  - reproducibility

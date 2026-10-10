@@ -1,0 +1,27 @@
+{
+  "support_difference_identities": 3357,
+  "equality_equivalences": 288,
+  "finite_activation_checks": 950,
+  "activation_threshold_checks": 1107,
+  "threshold_scale_comparisons": 6560,
+  "security_mixed_cost_gap_checks": 1296,
+  "security_exact_root_regularity_checks": 5,
+  "security_isolated_complex_counts": [
+    1,
+    1,
+    1,
+    2
+  ],
+  "security_totally_mixed_equilibrium_counts": [
+    1,
+    0,
+    1,
+    2
+  ],
+  "python_minimum": "3.10",
+  "external_dependencies": [],
+  "empirical_datasets": false,
+  "code_version": "1.0.0",
+  "security_parameters": "Illustrative, not empirically calibrated",
+  "security_asymptotic_claim": false
+}
